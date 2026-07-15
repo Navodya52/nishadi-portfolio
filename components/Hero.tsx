@@ -62,14 +62,13 @@ export default function Hero() {
             >
               <Code2 size={20} />
             </a>
-            <a href="#experience" aria-label="Experience">
-              <BriefcaseBusiness size={20} />
-            </a>
-            <a
-              href="mailto:nishadiwickramaarachchi52@gmail.com"
-              aria-label="Email"
+             <a
+              href="https://www.linkedin.com/in/nishadiwickramaarachchi/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
             >
-              <Mail size={20} />
+              <Code2 size={20} />
             </a>
           </div>
         </motion.div>
